@@ -3,7 +3,7 @@ This is the code repository for [Practical GIS](https://www.packtpub.com/applica
 ## About the Book
 The most commonly used GIS tools automate tasks that were historically done manually—compiling new maps by overlaying one on top of the other or physically cutting maps into pieces representing specific study areas, changing their projection, and getting meaningful results from the various layers by applying mathematical functions and operations. This book is an easy-to-follow guide to use the most matured open source GIS tools for these tasks.
 ## Instructions and Navigation
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
+All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter03.
 
 
 
