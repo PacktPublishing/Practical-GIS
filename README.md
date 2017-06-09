@@ -1,0 +1,29 @@
+# Practical GIS
+This is the code repository for [Practical GIS](https://www.packtpub.com/application-development/practical-gis?utm_source=github&utm_medium=repository&utm_campaign=9781787123328), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+## About the Book
+The most commonly used GIS tools automate tasks that were historically done manually—compiling new maps by overlaying one on top of the other or physically cutting maps into pieces representing specific study areas, changing their projection, and getting meaningful results from the various layers by applying mathematical functions and operations. This book is an easy-to-follow guide to use the most matured open source GIS tools for these tasks.
+## Instructions and Navigation
+All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
+
+
+
+The code will look like the following:
+```
+SELECT ST_Buffer(geom, 200) AS geom
+  FROM spatial.roads r
+    WHERE r.fclass LIKE 'motorway%' OR r.fclass LIKE 'primary%';
+```
+
+For this book, you will need to have a computer with mid-class computing capabilities. As the open source GIS software is not that demanding, you don't have to worry about your hardware specification when running the software, although some of the raster processing tools will run pretty long (about 5-10 minutes) on slower machines.
+
+What you need to take care of is that you have administrator privileges on the machine you are using, or the software is set up correctly by an administrator. If you don't have administrator privileges, you need to write the privilege at least to the folder used by the web server to serve content.
+
+## Related Products
+* [Automated GIS Workflows with PyQGIS [Video]](https://www.packtpub.com/application-development/automated-gis-workflows-pyqgis-video?utm_source=github&utm_medium=repository&utm_campaign=9781788399685)
+
+* [QGIS:Becoming a GIS Power User](https://www.packtpub.com/big-data-and-business-intelligence/qgisbecoming-gis-power-user?utm_source=github&utm_medium=repository&utm_campaign=9781788299725)
+
+* [Practical Time-Series Analysis](https://www.packtpub.com/big-data-and-business-intelligence/practical-time-series-analysis?utm_source=github&utm_medium=repository&utm_campaign=9781788290227)
+
+### Suggestions and Feedback
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
