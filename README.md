@@ -5,7 +5,7 @@ The most commonly used GIS tools automate tasks that were historically done manu
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter03.
 
-
+Chapters 1, 2, 4, 5, 6, 8, 9, 10, 11, 12, and 13 do not contain any code files.
 
 The code will look like the following:
 ```
