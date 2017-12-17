@@ -25,5 +25,3 @@ What you need to take care of is that you have administrator privileges on the m
 
 * [Practical Time-Series Analysis](https://www.packtpub.com/big-data-and-business-intelligence/practical-time-series-analysis?utm_source=github&utm_medium=repository&utm_campaign=9781788290227)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
